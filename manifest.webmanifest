@@ -1,0 +1,68 @@
+{
+  "id": "./",
+  "name": "Yangikent Market",
+  "short_name": "Yangikent",
+  "description": "Yangikent Market: onlayn buyurtma, ballar va doʻkon kassasi bitta ilovada",
+  "lang": "uz",
+  "dir": "ltr",
+  "start_url": "./?src=app",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#131313",
+  "theme_color": "#131313",
+  "categories": [
+    "shopping",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "shot-1_Telefonda-savdo.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Telefonda savdo"
+    },
+    {
+      "src": "shot-2_Tolov-va-ballar.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tolov va ballar"
+    },
+    {
+      "src": "shot-3_Onlayn-buyurtma.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Onlayn buyurtma"
+    },
+    {
+      "src": "shot-4_Hisobot.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Hisobot"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+ {
+  "relation": [
+   "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+   "namespace": "android_app",
+   "package_name": "uz.yangikent.market",
+   "sha256_cert_fingerprints": [
+    "E4:79:B5:A2:55:39:5D:83:19:A5:10:CE:2A:D0:C4:E1:B1:53:8D:37:CC:CC:25:C2:99:27:3E:3E:FB:09:82:E9"
+   ]
+  }
+ }
+]

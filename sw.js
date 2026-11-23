@@ -1,5 +1,5 @@
-/* Yangikent Market — ilova (PWA): internet sekin yoki yoʻq boʻlsa ham ochiladi. Versiya: f386d01383 */
-const CACHE = 'yk-f386d01383';
+/* Yangikent Market — ilova (PWA): internet sekin yoki yoʻq boʻlsa ham ochiladi. Versiya: a6877ff583 */
+const CACHE = 'yk-a6877ff583';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable-512.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).catch(() => { }).then(() => self.skipWaiting()));
